@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='pass_informations_to_other_activity'
